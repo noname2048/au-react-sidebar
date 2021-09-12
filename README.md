@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# au-react-sidebar
+
+* [Brian Design - React Sidebar with Dropdown Menu Tutorial - Create Sub Navigation](https://www.youtube.com/watch?v=mN3P_rv8ad4)
+* 클론코딩
+* 사이드 바를 리액트 버전으로 만들어 보고 싶어서 진행하였다.
+
+## 결과물
+
+## 노트
+
+
+
+
+...
+
+이하 아래는 쓸지도 몰라서 프로젝트 진행 중간에는 남겨놓으려고 한다.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
