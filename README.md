@@ -3,6 +3,8 @@
 * [Brian Design - React Sidebar with Dropdown Menu Tutorial - Create Sub Navigation](https://www.youtube.com/watch?v=mN3P_rv8ad4)
 * 클론코딩
 * 사이드 바를 리액트 버전으로 만들어 보고 싶어서 진행하였다.
+* 중간에 더 짧은게 있어보여서 변경!
+* [The Tech Team - ReactJS Animated Side Navigation Tutorial - Beginner Project Using Hooks, Router & Icons](https://www.youtube.com/watch?v=5I_uGo8-jPs)
 
 ## 결과물
 
