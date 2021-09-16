@@ -52,3 +52,6 @@ ul li a:hover,
 ul li a:active {
   background: #172b4d;
 }
+header svg {
+  font-size: 30px;
+}
