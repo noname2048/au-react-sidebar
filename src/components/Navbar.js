@@ -1,13 +1,16 @@
+import { BsPersonFill } from 'react-icons/bs';
+import { FaHome } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 import logo from '../images/logo.png';
 
-const Navbar = () => {
+const Navbar = ({show}) => {
     return (
-        <div className="sidenav active">
+        <div className={show ? 'sidenav active' : 'sidenav'}>
             <ul>
                 <img src={logo} alt="Logo" className="logo"/>
-                <li><a href="/">Home</a></li>
-                <li><a href="/">About us</a></li>
-                <li><a href="/">Contact</a></li>
+                <li><Link to="/"><FaHome />Home</Link></li>
+                <li><Link to="/about"><BsPersonFill />About us</Link></li>
+                <li><Link to="/">Contact</Link></li>
             </ul>
         </div>
     )

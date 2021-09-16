@@ -16,6 +16,9 @@ header {
   background: #011627;
   height: 80px;
   padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 .sidenav {
   background: #011627;
@@ -24,7 +27,7 @@ header {
   height: 95vh;
   padding: 0 30px;
   left: -100%;
-  transition: all 1s;
+  transition: all 0.3s;
 }
 .sidenav.active {
   left: 0;
@@ -54,4 +57,22 @@ ul li a:active {
 }
 header svg {
   font-size: 30px;
+}
+.deco {
+  padding: 10px;
+  pointer-events: all;
+}
+.deco:hover {
+  background-color: aqua;
+}
+.main {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: #000;
+}
+ul li a svg {
+  margin: 0 10px;
 }
