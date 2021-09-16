@@ -7,10 +7,13 @@
 * [The Tech Team - ReactJS Animated Side Navigation Tutorial - Beginner Project Using Hooks, Router & Icons](https://www.youtube.com/watch?v=5I_uGo8-jPs)
 
 ## 결과물
+![result](src/images/result.gif)
 
 ## 노트
 
-
+* react-router-dom 은 설치 패키지
+* react-icons 좋다.
+* position + onClick + react-router = result
 
 
 ...
